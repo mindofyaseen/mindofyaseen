@@ -1,22 +1,21 @@
 <h1 align="center">Hey, myself Muhammad Yaseen</h1>
 <h2 align="center">Cloud Data Engineer & Data Scientist & AI Engineer</h2>
 
-
 - ⚡ I design, deploy, and manage scalable data solutions in the cloud.
-- 👨‍💻 I work with Python, SQL, Machine Learning, and leading data engineering tools.
-- 🧩 Ask me about **Kafka, Airflow, Snowflake, Docker, Spark, Databricks, Azure, NumPy, Pandas, EDA, Big Data, Matplotlib**
-- 📫 Reach me at: mindofyaseen@gmail.com
+- 👨‍💻 I work with Python, SQL, Machine Learning, and leading data engineering & data science tools.
+- 🧩 Ask me about **Kafka, Airflow, Snowflake, Docker, Spark, Databricks, Azure, NumPy, Pandas, EDA, Big Data, Matplotlib, Scikit-Learn, PyTorch**
+- 📫 Reach me at: [mindofyaseen@gmail.com](mailto:mindofyaseen@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/905b217d-6e7a-42fe-97b0-1458e1c00ff6.svg" alt="airflow" width="40" height="40"/>
+    <img src="https://github.com/apache/airflow/raw/main/docs/apache-airflow/img/logos/airflow/airflow.svg" alt="airflow" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -34,9 +33,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   </a>
   <a href="https://snowflake.com/" target="_blank" rel="noreferrer">
@@ -45,23 +44,29 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://www.sql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-With a strong background in cloud data engineering, I design and implement robust, scalable solutions for complex data challenges. My passion lies in transforming raw datasets into meaningful business insights while maintaining high standards for data quality, security, and efficiency
-
-my most of the work & expertise is in the Data Engineering and Data Science Domain.
+With a strong background in cloud data engineering and data science, I design and implement robust, scalable solutions for complex data challenges. My expertise covers the entire data lifecycle—from ingestion and ETL to analytics and machine learning—helping businesses leverage their data for actionable insights and automation. Most of my work & expertise is in the Data Engineering and Data Science Domain.
 
 ---
 
 ## 🚀 Core Competencies
 
 - End-to-end development of cloud-based data pipelines
+- Machine learning model development & evaluation
 - Real-time and batch data processing
 - Data architecture, modeling, and workflow automation
 - Cloud infrastructure management (Azure, Snowflake)
@@ -70,14 +75,14 @@ my most of the work & expertise is in the Data Engineering and Data Science Doma
 - Big Data solutions with Spark and Databricks
 - CI/CD and containerization (Docker, GitHub)
 - Exploratory Data Analysis (EDA)
-- Data engineering best practices and optimization
+- Data engineering and data science best practices
 
 ---
 
 ## 💡 Professional Approach
 
 I focus on delivering value by:
-- Building data systems optimized for scalability and reliability
+- Building data systems and ML models optimized for scalability and reliability
 - Collaborating smoothly in cross-functional teams
 - Continuously learning and adapting new technologies
 - Prioritizing clarity, maintainability, and effective documentation
@@ -97,6 +102,4 @@ I focus on delivering value by:
     <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
-
