@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yaseen</h1>
 <h3 align="center">Cloud Data Engineer</h3>
 
-<p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/db413cbb-f447-4797-ac54-5e2cc49be48d.png" alt="Cloud Data Engineering Banner" width="70%" />
-</p>
 
 - ⚡ I design, deploy, and manage scalable data solutions in the cloud.
 - 👨‍💻 I work with Python, SQL, Machine Learning, and leading data engineering tools.
