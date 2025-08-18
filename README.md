@@ -1,5 +1,5 @@
 <h1 align="center">Hey, myself Muhammad Yaseen</h1>
-<h3 align="center">Cloud Data Engineer, Data Scientist, AI Engineer</h3>
+<h2 align="center">Cloud Data Engineer & Data Scientist & AI Engineer</h2>
 
 
 - ⚡ I design, deploy, and manage scalable data solutions in the cloud.
