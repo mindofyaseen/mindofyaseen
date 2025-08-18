@@ -85,13 +85,13 @@ I focus on delivering value by:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mindofyaseen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mind-of-yaseen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/mindofyaseen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
