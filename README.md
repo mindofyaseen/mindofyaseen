@@ -6,6 +6,8 @@
 - 🧩 Ask me about **Kafka, Airflow, Snowflake, Docker, Spark, Databricks, Azure, NumPy, Pandas, EDA, Big Data, Matplotlib, Scikit-Learn, PyTorch**
 - 📫 Reach me at: [mindofyaseen@gmail.com](mailto:mindofyaseen@gmail.com)
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -15,7 +17,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/apache/airflow/raw/main/docs/apache-airflow/img/logos/airflow/airflow.svg" alt="airflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -36,13 +38,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
   <a href="https://snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/1961952?s=200&v=4" alt="snowflake" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
@@ -59,22 +61,22 @@
 
 ## 🧑‍💻 About Me
 
-With a strong background in cloud data engineering and data science, I design and implement robust, scalable solutions for complex data challenges. My expertise covers the entire data lifecycle—from ingestion and ETL to analytics and machine learning—helping businesses leverage their data for actionable insights and automation. Most of my work & expertise is in the Data Engineering and Data Science Domain.
+With a strong background in **cloud data engineering and data science**, I design and implement robust, scalable solutions for complex data challenges. My expertise covers the entire data lifecycle—from ingestion and ETL to analytics and machine learning—helping businesses leverage their data for actionable insights and automation.
 
 ---
 
 ## 🚀 Core Competencies
 
-- End-to-end development of cloud-based data pipelines
-- Machine learning model development & evaluation
-- Real-time and batch data processing
-- Data architecture, modeling, and workflow automation
-- Cloud infrastructure management (Azure, Snowflake)
-- Advanced analytics using Python, Pandas, NumPy, and Matplotlib
-- Orchestration with Apache Airflow and Kafka
-- Big Data solutions with Spark and Databricks
-- CI/CD and containerization (Docker, GitHub)
-- Exploratory Data Analysis (EDA)
+- End-to-end development of **cloud-based data pipelines**
+- **Machine learning** model development & evaluation
+- **Real-time and batch data processing**
+- **Data architecture, modeling, and workflow automation**
+- Cloud infrastructure management (**Azure, Snowflake**)
+- Advanced analytics using **Python, Pandas, NumPy, Matplotlib**
+- Orchestration with **Apache Airflow and Kafka**
+- **Big Data solutions** with Spark and Databricks
+- **CI/CD and containerization** (Docker, GitHub)
+- Exploratory Data Analysis (**EDA**)
 - Data engineering and data science best practices
 
 ---
@@ -82,7 +84,7 @@ With a strong background in cloud data engineering and data science, I design an
 ## 💡 Professional Approach
 
 I focus on delivering value by:
-- Building data systems and ML models optimized for scalability and reliability
+- Building **data systems and ML models** optimized for scalability and reliability
 - Collaborating smoothly in cross-functional teams
 - Continuously learning and adapting new technologies
 - Prioritizing clarity, maintainability, and effective documentation
@@ -102,4 +104,3 @@ I focus on delivering value by:
     <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
----
