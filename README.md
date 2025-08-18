@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Yaseen</h1>
 <h3 align="center">Cloud Data Engineer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 - ⚡ I design, deploy, and manage scalable data solutions in the cloud.
 - 👨‍💻 I work with Python, SQL, Machine Learning, and leading data engineering tools.
 - 🧩 Ask me about **Kafka, Airflow, Snowflake, Docker, Spark, Databricks, Azure, NumPy, Pandas, EDA, Big Data, Matplotlib**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: mindofyaseen@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,8 +39,19 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://snowflake.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1961952?s=200&v=4" alt="snowflake" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.sql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+  </a>
+</p>
 ---
 
 ## 🧑‍💻 About Me
