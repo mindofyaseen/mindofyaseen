@@ -53,7 +53,9 @@
 
 ## 🧑‍💻 About Me
 
-With a strong background in cloud data engineering, I design and implement robust, scalable solutions for complex data challenges. My passion lies in transforming raw datasets into meaningful business insights while maintaining high standards for data quality, security, and efficiency.
+With a strong background in cloud data engineering, I design and implement robust, scalable solutions for complex data challenges. My passion lies in transforming raw datasets into meaningful business insights while maintaining high standards for data quality, security, and efficiency
+
+my most of the work & expertise is in the Data Engineering and Data Science Domain.
 
 ---
 
